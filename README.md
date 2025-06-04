@@ -1,6 +1,6 @@
-<h4 align="center">Hello there! I'm Edrey</h4>
+<h3 align="center">Hello there! I'm Edrey</h4>
 
-<h5 align="left">About me:</h5>
+<h4 align="left">About me:</h5>
 
 <table>
   <tr>
