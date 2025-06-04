@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="[https://imgur.com/Ys6yxH](https://imgur.com/ONIMh0D).png" width="150px" />
+      <img src="https://imgur.com/ONIMh0D.png" width="150px" />
     </td>
     <td>
       <h3>Hi there! 👋</h3>
