@@ -1,12 +1,15 @@
 <table>
   <tr>
     <td>
-      <img src="[https://imgur.com/Ys6yxH4.png]" width="150px" />
+      <img src="https://imgur.com/Ys6yxH4.png" width="150px" />
     </td>
     <td>
+      <h3>Hi there! 👋</h3>
       <p>
-        Hello! I'm a developer passionate about building cool things.<br>
-        I'm currently working on web and game development, and I love learning new tech.
+        I'm a passionate developer who loves building fun, creative, and sometimes spooky things 👻.<br>
+        I enjoy working with web technologies, learning new tools, and exploring game development.<br><br>
+        Currently learning and experimenting with modern frameworks and game engines.<br>
+        Let's connect and create something awesome together!
       </p>
     </td>
   </tr>
