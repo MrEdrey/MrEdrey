@@ -1,4 +1,10 @@
-## 👨‍💻 About Me
+<h4 align="center">Hello there! I'm Edrey</h4>
+
+###
+
+<h5 align="left">About me:</h5>
+
+###
 <table>
   <tr>
     <td>
