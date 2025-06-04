@@ -18,10 +18,11 @@
   </tr>
 </table>
 
+<h4 align="center">Things that I used:</h4>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
 </div>
 
-###
