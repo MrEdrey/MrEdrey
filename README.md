@@ -26,3 +26,9 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrEdrey&radius=16&theme=github-dark&area=true&order=5&color=ffffff&hide_border=true&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
