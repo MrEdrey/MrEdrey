@@ -1,5 +1,3 @@
-<h3 align="center">Hello there! I'm Edrey</h3>
-
 <h4 align="left">About me:</h4>
 
 <table>
