@@ -1,4 +1,4 @@
-<h3 align="left">About me:</h3>
+<h3 align="center">About me:</h3>
 
 <table>
   <tr>
@@ -16,9 +16,9 @@
   </tr>
 </table>
 
-<h3 align="left">Things that I use:</h3>
+<h3 align="center">Things that I use:</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" style="margin-right: 10px;" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo" />
 </div>
