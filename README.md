@@ -1,4 +1,4 @@
-<h5 align="left">About me:</h5>
+<h3 align="left">About me:</h3>
 
 <table>
   <tr>
@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-<h4 align="left">Things that I use:</h4>
+<h3 align="left">Things that I use:</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" style="margin-right: 10px;" />
